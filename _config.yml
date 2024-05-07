@@ -1,7 +1,7 @@
 title: Godot Cookbook
 author: The University of Alabama Libraries
-copyright: "2023"
-logo: logo.png
+copyright: "2024"
+logo: images/UALIB_logo.png
 
 execute:
   execute_notebooks: off
@@ -14,11 +14,12 @@ latex:
 #   - references.bib
 
 repository:
-  url: https://github.com/AveryUALibrary/Godot-Cookbook  # Online location of your book
+  url: https://ualibweb.github.io/Godot-Cookbook/  # Online location of your book
 #  path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 html:
+  favicon: images/UALIB_favicon.png
   use_issues_button: true
   use_repository_button: true
 
