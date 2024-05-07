@@ -1,0 +1,19 @@
+format: jb-book
+root: content/intro
+parts:
+  - caption: World Code
+    chapters:
+    - file: content/World/Perlin_Noise_Generation/intro
+      sections:
+      - file: content/World/Perlin_Noise_Generation/tile_map
+      - file: content/World/Perlin_Noise_Generation/2d_perlin_noise
+      - file: content/World/Perlin_Noise_Generation/world_generation
+      - file: content/World/Perlin_Noise_Generation/chunk_generation
+  - caption: Character Code
+    chapters:
+    - file: content/Character/Character_Mechanics/intro
+      sections:
+      - file: content/Character/Character_Mechanics/top-down_player_movement
+  - caption: Utilities Code
+    chapters:
+    - file: content/Utilities/http_requests
