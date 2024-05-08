@@ -24,5 +24,5 @@ Created by Sebastian Shirk
 * With the `TileMap` selected, click the `Tile` button and select a tile from your `TileSet` and start painting your level.
 * Add a `Physics Layer` to the `TileMap`
 * In your `TileSet Editor`, you can set the `Collision` of any tile you want by selecting the tile, selecting `Physics`, select whatever physics layer you are using and create your collision box that you wish to use. <br>
-![alt text](<2024-02-09 14-59-17.gif>)
+![alt text](<2024-02-09-14-59-17.gif>)
 * In this gif we are setting the collision for the ground tiles.

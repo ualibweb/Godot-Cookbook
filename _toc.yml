@@ -17,3 +17,4 @@ parts:
   - caption: Utilities Code
     chapters:
     - file: content/Utilities/http_requests
+    - file: content/Utilities/external_python
